@@ -51,30 +51,30 @@ Models and concepts complete list :rainbow:
 
 -   #### Machine Learning
     -   [ ] [Validation](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/validation)
-    -   [ ] Batch sampling
-    -   [ ] Normalization
-    -   [ ] Stochastic gradient descent
-    -   [ ] Cost functions
+    -   [ ] [Batch sampling](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/batch_sampling)
+    -   [ ] [Normalization](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/normalization)
+    -   [ ] [Stochastic gradient descent](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/stochastic_gradient_descent)
+    -   [ ] [Cost functions](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/cost_functions)
     -   **Regression**
-        -   [ ] Linear Regression
-        -   [ ] Logistic Regression
+        -   [ ] [Linear Regression](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/regression/linear)
+        -   [ ] [Logistic Regression](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/regression/logistic)
     -   **Performance analysis**
-        -   [ ] Mean squared error
-        -   [ ] Accuracy
-        -   [ ] F1 score
+        -   [ ] [[Mean squared error]()](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/performance_analysis/mean_squared_error)
+        -   [ ] [[Accuracy]()](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/performance_analysis/accuracy)
+        -   [ ] [[F1 score]()](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/performance_analysis/f1_score)
 -   #### Neural Networks
     -   **Activation functions**
-        -   [ ] Relu
-        -   [ ] Sigmoid
-        -   [ ] Binary
-        -   [ ] Tanh
-        -   [ ] Softplus
-        -   [ ] Softmax
-        -   [ ] Maxout
-    -   [ ] Regularization
-    -   [ ] Fully connected
-    -   [ ] Convolutional neaural network
-    -   [ ] Recurrent neural network
+        -   [ ] [Relu](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/relu)
+        -   [ ] [Sigmoid](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/sigmoid)
+        -   [ ] [Binary](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/binary)
+        -   [ ] [Tanh](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/tanh)
+        -   [ ] [Softplus](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/softplus)
+        -   [ ] [Softmax](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/softmax)
+        -   [ ] [Maxout](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/maxout)
+    -   [ ] [Regularization](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/regularization)
+    -   [ ] [Fully connected](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/fully_connected)
+    -   [ ] [Convolutional neaural network](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/convolutional_neural_network)
+    -   [ ] [Recurrent neural network](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/recurrent_neural_network)
 
 ## Issues :sweat_drops:
 
