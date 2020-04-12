@@ -49,9 +49,10 @@ import matplotlib.pyplot as plt
 
 Models complete list
 
--   Linear reggresion
-    -   wgat
--
+-   Machine Learning
+    -   Regression
+        -   [ ] Linear Regression
+-   Neural Networks
 
 ## Issues :sweat_drops:
 
