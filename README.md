@@ -12,9 +12,9 @@ scratch? :wink: This repository is perfect for you :ok_hand:
 
 ## Table of content :bookmark_tabs:
 
--   [Introduction](#Introduction-:mortar_board:)
+-   [Introduction](#Introduction)
 -   [Requirements](#Requirements)
--   [Models](#Models-
+-   [Models](#Models)
 -   [Issues](#Issues)
 
 ## Introduction :mortar_board:
