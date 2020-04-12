@@ -13,6 +13,7 @@ scratch? :wink: This repository is perfect for you :ok_hand:
 ## Table of content
 
 -   [Introduction](#Introduction)
+-   [requirements](#Requirements)
 -   [Models](#Models)
 -   [Issues](#Issues)
 
@@ -26,6 +27,23 @@ from tensroflow import keras
 ```
 
 I do not deny that tensorflow is useless :open_mouth: (it's actually powerful) but have you ever wondered how it looks from the mathematical side :question:
+
+## Requirements
+
+-   Python 3.7+ :snake:
+-   Numpy :computer:
+-   Matplotlib :bar_chart:
+
+```bash
+pip3 install numpy matplotlib
+```
+
+Check if everything works properl :white_check_mark:
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+```
 
 ## Models
 
