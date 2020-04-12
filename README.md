@@ -50,7 +50,7 @@ import matplotlib.pyplot as plt
 Models and concepts complete list :rainbow:
 
 -   #### Machine Learning
-    -   [ ] [Validation](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/validation)
+    -   [x] [Validation](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/validation)
     -   [ ] [Batch sampling](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/batch_sampling)
     -   [ ] [Normalization](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/normalization)
     -   [ ] [Stochastic gradient descent](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/stochastic_gradient_descent)
