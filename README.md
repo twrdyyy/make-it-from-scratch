@@ -10,19 +10,13 @@ scratch? :wink: This repository is perfect for you :ok_hand:
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
----
-
-### **Table of content**
-
----
+## Table of content
 
 -   [Introduction]()
 -   [Models]()
 -   [Issues]()
 
 ## Issues :sweat_drops:
-
----
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
