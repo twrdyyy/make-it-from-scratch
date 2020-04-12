@@ -12,10 +12,10 @@ scratch? :wink: This repository is perfect for you :ok_hand:
 
 ## Table of content :bookmark_tabs:
 
--   [Introduction](#Introduction)
--   [Requirements](#Requirements)
--   [Models](#Models)
--   [Issues](#Issues)
+-   [Introduction](#introduction-mortar_board)
+-   [Requirements](#requirements-mega)
+-   [Models](#models-rocket)
+-   [Issues](#issues-sweat-drops)
 
 ## Introduction :mortar_board:
 
