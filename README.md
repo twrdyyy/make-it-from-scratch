@@ -58,7 +58,6 @@ Models and concepts complete list :rainbow:
     -   **Regression**
         -   [ ] Linear Regression
         -   [ ] Logistic Regression
-    -   [ ] Decision Tree
     -   **Performance analysis**
         -   [ ] Mean squared error
         -   [ ] Accuracy
