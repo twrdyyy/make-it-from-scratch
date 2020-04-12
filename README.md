@@ -1,4 +1,4 @@
-# Make it from scratch! :fire:
+# Make it from scratch :fire:
 
 Do you want to write popular machine learning and deep learning models from
 scratch? :wink: This repository is perfect for you :ok_hand:
@@ -47,12 +47,35 @@ import matplotlib.pyplot as plt
 
 ## Models :rocket:
 
-Models complete list :rainbow:
+Models and concepts complete list :rainbow:
 
 -   Machine Learning
+    -   [ ] Validation
+    -   [ ] Batch sampling
+    -   [ ] Normalization
+    -   [ ] Stochastic gradient descent
+    -   [ ] Cost functions
     -   Regression
         -   [ ] Linear Regression
+        -   [ ] Logistic Regression
+    -   [ ] Decision Tree
+    -   Performance analysis
+        -   [ ] Mean squared error
+        -   [ ] Accuracy
+        -   [ ] F1 score
 -   Neural Networks
+    -   Activation functions
+        -   [ ] Relu
+        -   [ ] Sigmoid
+        -   [ ] Binary
+        -   [ ] Tanh
+        -   [ ] Softplus
+        -   [ ] Softmax
+        -   [ ] Maxout
+    -   [ ] Regularization
+    -   [ ] Fully connected
+    -   [ ] Convolutional neaural network
+    -   [ ] Recurrent neural network
 
 ## Issues :sweat_drops:
 
