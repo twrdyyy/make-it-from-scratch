@@ -10,14 +10,14 @@ scratch? :wink: This repository is perfect for you :ok_hand:
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-## Table of content
+## Table of content :bookmark_tabs:
 
 -   [Introduction](#Introduction)
 -   [Requirements](#Requirements)
 -   [Models](#Models)
 -   [Issues](#Issues)
 
-## Introduction
+## Introduction :mortar_board:
 
 Creating machine learning and deep learning models is not all about :broken_heart:
 
@@ -28,7 +28,7 @@ from tensroflow import keras
 
 I do not deny that tensorflow is useless :open_mouth: (it's actually powerful) but have you ever wondered how it looks from the mathematical side :question:
 
-## Requirements
+## Requirements :mega:
 
 -   Python 3.7+ :snake:
 -   Numpy :computer:
@@ -45,7 +45,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 ```
 
-## Models
+## Models :rocket:
 
 Models complete list :rainbow:
 
