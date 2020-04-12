@@ -49,22 +49,22 @@ import matplotlib.pyplot as plt
 
 Models and concepts complete list :rainbow:
 
--   Machine Learning
+-   #### Machine Learning
     -   [ ] Validation
     -   [ ] Batch sampling
     -   [ ] Normalization
     -   [ ] Stochastic gradient descent
     -   [ ] Cost functions
-    -   Regression
+    -   **Regression**
         -   [ ] Linear Regression
         -   [ ] Logistic Regression
     -   [ ] Decision Tree
-    -   Performance analysis
+    -   **Performance analysis**
         -   [ ] Mean squared error
         -   [ ] Accuracy
         -   [ ] F1 score
--   Neural Networks
-    -   Activation functions
+-   #### Neural Networks
+    -   **Activation functions**
         -   [ ] Relu
         -   [ ] Sigmoid
         -   [ ] Binary
