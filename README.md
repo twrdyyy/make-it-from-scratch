@@ -12,9 +12,22 @@ scratch? :wink: This repository is perfect for you :ok_hand:
 
 ## Table of content
 
--   [Introduction]()
--   [Models]()
--   [Issues]()
+-   [Introduction](#Introduction)
+-   [Models](#Models)
+-   [Issues](#Issues)
+
+## Introduction
+
+Creating machine learning and deep learning models is not all about :broken_heart:
+
+```python
+import tensorflow as tf
+from tensroflow import keras
+```
+
+I do not deny that tensorflow is useless :open_mouth: (it's actually powerful) but have you ever wondered how it looks from the mathematical side :question:
+
+## Models
 
 ## Issues :sweat_drops:
 
