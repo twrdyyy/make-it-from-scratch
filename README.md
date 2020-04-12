@@ -52,7 +52,7 @@ Models and concepts complete list :rainbow:
 -   #### Machine Learning
     -   [x] [Validation](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/validation)
     -   [x] [Batch sampling](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/batch_sampling)
-    -   [ ] [Normalization](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/normalization)
+    -   [x] [Normalization](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/normalization)
     -   [ ] [Stochastic gradient descent](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/stochastic_gradient_descent)
     -   [ ] [Cost functions](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/cost_functions)
     -   **Regression**
