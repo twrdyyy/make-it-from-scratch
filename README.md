@@ -38,7 +38,7 @@ I do not deny that tensorflow is useless :open_mouth: (it's actually powerful) b
 pip3 install numpy matplotlib
 ```
 
-Check if everything works properl :white_check_mark:
+Check if everything works properly :white_check_mark:
 
 ```python
 import numpy as np
