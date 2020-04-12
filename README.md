@@ -3,8 +3,6 @@
 Do you want to write popular machine learning and deep learning models from
 scratch? :wink: This repository is perfect for you :ok_hand:
 
----
-
 [![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg)](https://www.python.org/downloads/release/python-370/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
