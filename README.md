@@ -13,7 +13,7 @@ scratch? :wink: This repository is perfect for you :ok_hand:
 ## Table of content
 
 -   [Introduction](#Introduction)
--   [requirements](#Requirements)
+-   [Requirements](#Requirements)
 -   [Models](#Models)
 -   [Issues](#Issues)
 
@@ -46,6 +46,12 @@ import matplotlib.pyplot as plt
 ```
 
 ## Models
+
+Models complete list
+
+-   Linear reggresion
+    -   wgat
+-
 
 ## Issues :sweat_drops:
 
