@@ -47,7 +47,7 @@ import matplotlib.pyplot as plt
 
 ## Models
 
-Models complete list
+Models complete list :rainbow:
 
 -   Machine Learning
     -   Regression
