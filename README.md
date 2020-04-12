@@ -59,9 +59,9 @@ Models and concepts complete list :rainbow:
         -   [ ] [Linear Regression](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/regression/linear)
         -   [ ] [Logistic Regression](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/regression/logistic)
     -   **Performance analysis**
-        -   [ ] [[Mean squared error]()](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/performance_analysis/mean_squared_error)
-        -   [ ] [[Accuracy]()](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/performance_analysis/accuracy)
-        -   [ ] [[F1 score]()](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/performance_analysis/f1_score)
+        -   [ ] [Mean squared error](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/performance_analysis/mean_squared_error)
+        -   [ ] [Accuracy](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/performance_analysis/accuracy)
+        -   [ ] [F1 score](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/performance_analysis/f1_score)
 -   #### Neural Networks
     -   **Activation functions**
         -   [ ] [Relu](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/relu)
