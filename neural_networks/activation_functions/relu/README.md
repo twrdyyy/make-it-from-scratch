@@ -18,4 +18,6 @@ Sometimes we don't want to deny all negative values into zeros. We use **Leaky R
 
 ![PReLU equation](resources/prelu.png?raw=true)
 
+Where **alpha** is hyperparameter to tune!
+
 ![PRelu plot](resources/prelu_plot.png?raw=true)
