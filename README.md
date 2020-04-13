@@ -65,8 +65,8 @@ Models and concepts complete list :rainbow:
 -   #### Neural Networks
     -   **Activation functions**
         -   [x] [Relu](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/relu)
-        -   [ ] [Sigmoid](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/sigmoid)
-        -   [ ] [Binary](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/binary)
+        -   [x] [Sigmoid](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/sigmoid)
+        -   [x] [Binary](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/binary)
         -   [ ] [Tanh](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/tanh)
         -   [ ] [Softplus](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/softplus)
         -   [ ] [Softmax](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/softmax)
