@@ -64,7 +64,7 @@ Models and concepts complete list :rainbow:
         -   [ ] [F1 score](https://github.com/twrdyyy/make-it-from-scratch/tree/master/machine_learning/performance_analysis/f1_score)
 -   #### Neural Networks
     -   **Activation functions**
-        -   [ ] [Relu](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/relu)
+        -   [x] [Relu](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/relu)
         -   [ ] [Sigmoid](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/sigmoid)
         -   [ ] [Binary](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/binary)
         -   [ ] [Tanh](https://github.com/twrdyyy/make-it-from-scratch/tree/master/neural_networks/activation_functions/tanh)
